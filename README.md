@@ -11,7 +11,22 @@ An entry-level network auditing tool built in Python using the native `socket` l
 ## 🛠️ Requirements
 * Python 3.x
 
-## 💻 How To Run
+## 💻 How To Run on windows 
 1. Cloning the repository And Runing It:
 ```bash
-git clone 
+git clone https://github.com/Unknowen-sudo/Simple-TCP-Port-Scanner.git
+cd Simple-TCP-Port-Scanner
+python Main.py
+```
+
+## 💻 How To Run on Linux 
+1. Cloning the repository And Runing It:
+```bash
+git clone https://github.com/Unknowen-sudo/Simple-TCP-Port-Scanner.git
+cd Simple-TCP-Port-Scanner
+python3 Main.py
+
+
+
+
+
