@@ -25,7 +25,7 @@ python Main.py
 git clone https://github.com/Unknowen-sudo/Simple-TCP-Port-Scanner.git
 cd Simple-TCP-Port-Scanner
 python3 Main.py
-
+```
 
 
 
